@@ -1,2 +1,2 @@
 # pandas-hw
-Pandas homework - Heroes of Pymoli (data analysis)
+Using python pandas to organize and analyze battle data (Heroes of Pymoli)
